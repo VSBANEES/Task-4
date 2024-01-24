@@ -2,7 +2,6 @@ class Circle:
     def __init__(self, number_list):
         self.number_list = number_list
 
-# Example usage:
 numbers = [10, 501, 22, 37, 100, 999, 87, 351]
 
 # Create an instance of the Circle class
