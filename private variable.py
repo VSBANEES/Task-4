@@ -15,8 +15,7 @@ class Circle:
 
     def perimeter(self):
         return 2 * Circle.__pi * self.radius
-
-# Example usage:
+        
 numbers = [10, 501, 22, 37, 100, 999, 87, 351]
 
 # Create an instance of the Circle class using class method
